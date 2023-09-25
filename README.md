@@ -1,5 +1,5 @@
 ## Market Sales EDA
-### Analysis for sales of a market and studying for sales in many states and cities asd detremine the best way for marketing for proudcts of the market in every city or state 
+### Analysis for sales of a market and studying for sales in many states and cities and determine the best way for marketing for products of the market in every city or state 
 
 ### Ued libraries :
 - Numpy
